@@ -16,7 +16,7 @@ Datasets Used for Model Training:
       Heart Disease:
       Parkinson’s Disease: 
       
-Model Training: Machine learning models (Support Vector Machine and Logistic Regression) were trained in Python using scikit-learn.
+Model Training: Machine learning models (Support Vector Machine and Logistic Regression) were trained on datasets.
 
 Pickle Files: The trained models were saved as pickle files.
 
