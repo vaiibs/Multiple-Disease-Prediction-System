@@ -1,4 +1,4 @@
-# Multiple-Disease-Prediction-System
+# Multiple Disease Prediction System
 
 Overview: A Streamlit-based web app for predicting Diabetes, Heart Disease, and Parkinson’s Disease using machine learning models.
 
