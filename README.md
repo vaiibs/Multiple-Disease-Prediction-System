@@ -25,3 +25,6 @@ Pickle Files: The trained models were saved as pickle files.
     parkinsons_model.sav
     
 Streamlit App: The app interface is built using Streamlit to allow users to input their health data and receive predictions. The app loads the trained models from the pickle files for real-time prediction.
+
+      streamlit run app.py
+
